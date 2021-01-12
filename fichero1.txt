@@ -5,3 +5,5 @@ Framework modular basado en IoC
 Stash (trabajo incompleto)
 
 Modificaciones pendientes de confirmación ...
+
+Modificaciones desde rama fast_forward
