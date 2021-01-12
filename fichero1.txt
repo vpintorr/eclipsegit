@@ -1,3 +1,7 @@
 Framework Spring para Java
 
 Framework modular basado en IoC
+
+Stash (trabajo incompleto)
+
+Modificaciones pendientes de confirmación ...
